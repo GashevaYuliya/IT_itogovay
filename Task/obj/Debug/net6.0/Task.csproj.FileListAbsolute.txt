@@ -1,0 +1,15 @@
+C:\Users\Julia\Desktop\IT_itogovay\Task\bin\Debug\net6.0\Task.exe
+C:\Users\Julia\Desktop\IT_itogovay\Task\bin\Debug\net6.0\Task.deps.json
+C:\Users\Julia\Desktop\IT_itogovay\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+C:\Users\Julia\Desktop\IT_itogovay\Task\bin\Debug\net6.0\Task.dll
+C:\Users\Julia\Desktop\IT_itogovay\Task\bin\Debug\net6.0\Task.pdb
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\Task.dll
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\refint\Task.dll
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\Task.pdb
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+C:\Users\Julia\Desktop\IT_itogovay\Task\obj\Debug\net6.0\ref\Task.dll
